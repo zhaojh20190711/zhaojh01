@@ -1,0 +1,91 @@
+{
+  "uid" : "1511881aac05c794",
+  "name" : "Test01.test002",
+  "fullName" : "test01.Test01.test002",
+  "historyId" : "e022a978270f5ae4fd339c0d0aeacf36",
+  "time" : {
+    "start" : 1562664972923,
+    "stop" : 1562664972927,
+    "duration" : 4
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "结束",
+      "time" : {
+        "start" : 1562664972926,
+        "stop" : 1562664972926,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ae75c8d75aca1c78",
+        "name" : "描述",
+        "source" : "ae75c8d75aca1c78.txt",
+        "type" : "text/plain",
+        "size" : 22
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-B9EF5LT"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "minor"
+  }, {
+    "name" : "thread",
+    "value" : "49848-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test01"
+  }, {
+    "name" : "testClass",
+    "value" : "test01"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test01.test002"
+  }, {
+    "name" : "package",
+    "value" : "test01"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "minor",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1511881aac05c794.json",
+  "parameterValues" : [ ]
+}

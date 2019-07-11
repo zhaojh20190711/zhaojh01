@@ -1,0 +1,68 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1562664972919" stop="1562664972930">
+  <name>test01</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1562664972919" status="passed" stop="1562664972923">
+      <name>Test01.test001</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="critical"/>
+        <label name="thread" value="49848-MainThread"/>
+        <label name="host" value="DESKTOP-B9EF5LT"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1562664972922" status="passed" stop="1562664972923">
+          <name>开始</name>
+          <title>开始</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1562664972923" status="passed" stop="1562664972927">
+      <name>Test01.test002</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="minor"/>
+        <label name="thread" value="49848-MainThread"/>
+        <label name="host" value="DESKTOP-B9EF5LT"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1562664972926" status="passed" stop="1562664972926">
+          <name>结束</name>
+          <title>结束</title>
+          <attachments>
+            <attachment source="d68c303d-a570-4d31-afe4-1e6fa0df112d-attachment.txt" title="描述" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1562664972929" status="passed" stop="1562664972930">
+      <name>Test01.test003</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="blocker"/>
+        <label name="thread" value="49848-MainThread"/>
+        <label name="host" value="DESKTOP-B9EF5LT"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1562664972930" status="passed" stop="1562664972930">
+          <name>结束</name>
+          <title>结束</title>
+          <attachments>
+            <attachment source="27e026bd-606e-47be-bf73-bd25c7b24a8c-attachment.txt" title="描述" type="text/plain"/>
+            <attachment source="a9e4cef0-0f3e-4991-9c55-0e38786f8a25-attachment.png" title="图片" type="image/png"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
